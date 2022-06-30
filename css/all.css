@@ -1,0 +1,22 @@
+#root {
+    width: 75%;
+    border: 1px solid;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.dish-item {
+    width: 600px;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.dish-item img {
+    width: inherit;
+}
